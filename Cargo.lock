@@ -1,0 +1,12 @@
+[root]
+name = "SideShooter"
+version = "0.0.1"
+dependencies = [
+ "sdl2 0.0.1 (git+https://github.com/AngryLawyer/rust-sdl2.git#5fb73d7be7e518084698df50d4a0f00a4dda3761)",
+]
+
+[[package]]
+name = "sdl2"
+version = "0.0.1"
+source = "git+https://github.com/AngryLawyer/rust-sdl2.git#5fb73d7be7e518084698df50d4a0f00a4dda3761"
+
